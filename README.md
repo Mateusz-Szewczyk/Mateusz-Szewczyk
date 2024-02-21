@@ -28,5 +28,9 @@
   </a>
 </div>
 
+### My latest project
+[Spamapi](https://github.com/Mateusz-Szewczyk/spamapi) - This project is a spam detection API built with Heroku, FastAPI, Pydantic, and Uvicorn. It employs a [machine learning model trained by me](https://github.com/Mateusz-Szewczyk/spam-classification) with a 93.8% accuracy rate. Users can submit comments or messages to the API, which then identifies whether the input is spam or not.
+
+
 ### Spotify
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31o3tpe4td5w6qw6b753waie5upe&count=1)
