@@ -36,7 +36,7 @@
 - This project aims to develop a machine learning model capable of accurately identifying spam messages, leveraging supervised learning techniques. Throughout the project, I've gained valuable insights and honed my skills in machine learning, data preprocessing, and model evaluation.
 
 ### Spotify
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31o3tpe4td5w6qw6b753waie5upe&count=1)
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31o3tpe4td5w6qw6b753waie5upe&count=3)
 
 - ![#032E66](https://placehold.co/100x100/032e66/032e66.png) **Marine Blue**
 - ![#123524](https://placehold.co/100x100/123524/123524.png) **Phthalo Green**
