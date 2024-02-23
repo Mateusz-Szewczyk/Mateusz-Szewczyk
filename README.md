@@ -1,4 +1,4 @@
-# Hi 👋! My name is Mateusz and I'm a passionate machine learning engineer from Poland
+# Hi 👋! My name is Mateusz and I'm a machine learning engineer from Poland
 
 [![Mateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusz-Szewczyk)](https://github.com/Mateusz-Szewczyk/github-readme-stats)
 
