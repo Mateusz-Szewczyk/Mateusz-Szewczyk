@@ -1,9 +1,5 @@
 # Hi 👋! My name is Mateusz and I'm a machine learning engineer from Poland
 
-[![Mateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusz-Szewczyk)](https://github.com/Mateusz-Szewczyk/github-readme-stats)
-
-
-
 <img align="right" height="150" src="https://tenor.com/pl/view/elsword-gif-27268482.gif" />
 
 ### Skills
