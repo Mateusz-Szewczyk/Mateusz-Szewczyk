@@ -28,11 +28,9 @@
 #### [Spamapi](https://github.com/Mateusz-Szewczyk/spamapi):
 - This project is a spam detection API built with Heroku, FastAPI, Pydantic, and Uvicorn. It employs a [machine learning model trained by me](https://github.com/Mateusz-Szewczyk/spam-classification) with a 93.8% accuracy rate. Users can submit comments or messages to the API, which then identifies whether the input is spam or not.
 
-#### [spam-classification](https://github.com/Mateusz-Szewczyk/spam-classification):
-- This project aims to develop a machine learning model capable of accurately identifying spam messages, leveraging supervised learning techniques. Throughout the project, I've gained valuable insights and honed my skills in machine learning, data preprocessing, and model evaluation.
+#### [PlateEye](https://github.com/Mateusz-Szewczyk/PlateEye):
+- PlateEye is a web app for vehicle number plate detection and recognition made with Streamlit. Powered by YOLOv8 for precise plate localization and EasyOCR for accurate character recognition, PlateEye enables users to upload images, automatically detect number plates, recognize characters, and add comments swiftly. 
 
-### Spotify
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31o3tpe4td5w6qw6b753waie5upe&count=3)
 
 - ![#032E66](https://placehold.co/100x100/032e66/032e66.png) **Marine Blue**
 - ![#123524](https://placehold.co/100x100/123524/123524.png) **Phthalo Green**
