@@ -2,7 +2,7 @@
 
 <img align="right" height="150" src="https://tenor.com/pl/view/elsword-gif-27268482.gif" />
 
-### Skills
+### Main Skills
 - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo" />
 - Scikit-learn <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" height="20" alt="scikit-learn logo" />
 - TensorFlow <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="20" alt="tensorflow logo" />
