@@ -1,6 +1,6 @@
 # Hi 👋! My name is Mateusz and I'm a machine learning engineer from Poland
 
-<img align="right" height="150" src="https://tenor.com/pl/view/elsword-gif-27268482.gif" />
+<!--<img align="right" height="150" src="https://tenor.com/pl/view/elsword-gif-27268482.gif" />-->
 
 ### Main Skills
 - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo" />
